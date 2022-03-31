@@ -17,6 +17,14 @@
 
 - [Bicep 및 GitHub Actions를 사용하여 Azure 리소스 배포](https://docs.microsoft.com/ko-kr/learn/paths/bicep-github-actions/?ns-enrollment-type=Collection&ns-enrollment-id=yje7uwo7o08go6)
 
+- [C#으로 첫 번째 단계 수행](https://docs.microsoft.com/ko-kr/learn/paths/csharp-first-steps/?ns-enrollment-type=Collection&ns-enrollment-id=yje7uwo7o08go6)
+
+- [C#을 사용하여 애플리케이션에 논리 추가](https://docs.microsoft.com/ko-kr/learn/paths/csharp-logic/?ns-enrollment-type=Collection&ns-enrollment-id=yje7uwo7o08go6)
+
+- [C#을 사용하여 .NET 애플리케이션 빌드](https://docs.microsoft.com/ko-kr/learn/paths/build-dotnet-applications-csharp/?ns-enrollment-type=Collection&ns-enrollment-id=yje7uwo7o08go6)
+
+- [C#에서 데이터 작업](https://docs.microsoft.com/ko-kr/learn/paths/csharp-data/?ns-enrollment-type=Collection&ns-enrollment-id=yje7uwo7o08go6)
+
 
 </details>
 
