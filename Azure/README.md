@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
 
 ## 마이크로소프트 공식문서 학습경로 실습기록입니다.
 
